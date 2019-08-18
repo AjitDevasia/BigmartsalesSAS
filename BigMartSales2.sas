@@ -1,5 +1,4 @@
-*Setting libref;
-libname orion "&path";
+
 
 *Creating Fileref for  importing file;
 FILENAME REFFILE '/folders/myfolders/Train.csv';
